@@ -1,5 +1,5 @@
 
-# 第四章实验   shell脚本编程基础
+#    shell脚本编程基础
 
 ### 任务一：用bash编写一个图片批处理脚本
 [imagemagick脚本.md](https://github.com/CUCCS/2021-linux-public-zhang-de-xin/files/6372192/imagemagick.md)
